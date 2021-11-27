@@ -1,4 +1,4 @@
 #webserver
 
-plantila
+template to create an API REST
 ejecutar npm install
